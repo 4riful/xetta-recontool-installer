@@ -24,5 +24,11 @@ apt install golang
 ```
 then,
 ```
-git clone 
+git clone https://github.com/4riful/xetta-recontool-installer.git
+cd xetta-recontool-installer
+python3 xetta_recon.py
 ```
+![xetta recon tool](https://user-images.githubusercontent.com/45453772/115603790-66822780-a302-11eb-8973-caaabdadb254.png)
+IF all done successfully 
+you can use those tools from anywhere from yor terminal
+Happy Hunting !!!!!!!!!
