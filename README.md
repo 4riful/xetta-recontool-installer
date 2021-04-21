@@ -4,7 +4,7 @@ This python script will help you to install some well known and useful recon too
 #Dependencies 
 Go lang should be installed
 
-#Tools will be installed 
+#Tools will be installed  <br /> <br />
 1.Assetfinder --->by Tom nom nom. <br />
 2.wildcheck ---> buy the blackturtle. <br />
 3.Gau ----> by lc. <br />
