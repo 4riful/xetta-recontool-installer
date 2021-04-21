@@ -29,6 +29,7 @@ cd xetta-recontool-installer
 python3 xetta_recon.py
 ```
 ![xetta recon tool](https://user-images.githubusercontent.com/45453772/115603790-66822780-a302-11eb-8973-caaabdadb254.png)
-IF all done successfully 
-you can use those tools from anywhere from yor terminal
+IF all done successfully ,</br>
+You can use those tools from anywhere from your terminal</br></br>
 Happy Hunting !!!!!!!!!
+
