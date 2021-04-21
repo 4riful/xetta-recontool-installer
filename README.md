@@ -1,4 +1,3 @@
-# xetta-recontoll-installer
 # This python script will help you to install some well known and useful recon tool.
 # After using this Installer You can use those globally anywhere from your terminal where you want !!
 ![poster](https://user-images.githubusercontent.com/45453772/115599035-e907e880-a2fc-11eb-969f-f31ed837de4c.png)
