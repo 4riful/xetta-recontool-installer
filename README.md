@@ -17,3 +17,9 @@ Go lang should be installed
 
 
 # installation
+first check go lang is properly installed or not ! if not then first install it by 
+```
+function test() {
+  console.log("apt install golang");
+}
+```
