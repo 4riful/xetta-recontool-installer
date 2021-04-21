@@ -9,11 +9,11 @@ import sys
 import time
 
 
-print("▀▄▀ █▀▀ ▀█▀ ▀█▀ ▄▀█ ▄▄ █▀█ █▀▀ █▀▀ █▀█ █▄░█ ▀█▀ █▀█ █▀█ █░░ █▀ ▄▄ █ █▄░█ █▀ ▀█▀ ▄▀█ █░░ █░░ █▀▀ █▀█")
-print("█░█ ██▄ ░█░ ░█░ █▀█ ░░ █▀▄ ██▄ █▄▄ █▄█ █░▀█ ░█░ █▄█ █▄█ █▄▄ ▄█ ░░ █ █░▀█ ▄█ ░█░ █▀█ █▄▄ █▄▄ ██▄ █▀▄")
+print("\033[1;31;40m▀▄▀ █▀▀ ▀█▀ ▀█▀ ▄▀█ ▄▄ █▀█ █▀▀ █▀▀ █▀█ █▄░█ ▀█▀ █▀█ █▀█ █░░ █▀ ▄▄ █ █▄░█ █▀ ▀█▀ ▄▀█ █░░ █░░ █▀▀ █▀█")
+print("\033[1;31;40m█░█ ██▄ ░█░ ░█░ █▀█ ░░ █▀▄ ██▄ █▄▄ █▄█ █░▀█ ░█░ █▄█ █▄█ █▄▄ ▄█ ░░ █ █░▀█ ▄█ ░█░ █▀█ █▄▄ █▄▄ ██▄ █▀▄")
 time.sleep(2.3)
 print("\n")
-print("\n\n\tThis script will install those following tools globally.........\n\n\n \t [+]assetfinder \n \t [+]gau \n \t [+]wildcheck \n \t [+]hakrawler \n \t [+]httpprobe \n \t [+]qsreplace \n \t [+]dirdar \n \t [+]dalfox \n \t [+]ffuf ")
+print("\033[1;32;40m\n\n\tThis script will install those following tools globally.........\n\n\n \t [+]assetfinder \n \t [+]gau \n \t [+]wildcheck \n \t [+]hakrawler \n \t [+]httpprobe \n \t [+]qsreplace \n \t [+]dirdar \n \t [+]dalfox \n \t [+]ffuf ")
 time.sleep(1.5)
 
 
