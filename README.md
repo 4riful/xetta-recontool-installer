@@ -1,5 +1,5 @@
 # This python script will help you to install some well known and useful recon tools.
-# After using this Installer You can use those tools globally anywhere from your terminal where you want !!
+# After using this Installer You can use those tools globally I mean anywhere from your terminal where you want !!
 ![poster1](https://user-images.githubusercontent.com/45453772/115601152-400ebd00-a2ff-11eb-9529-208014d01473.png)
 
 # Dependencies 
@@ -30,6 +30,6 @@ python3 xetta_recon.py
 ```
 ![xetta recon tool](https://user-images.githubusercontent.com/45453772/115603790-66822780-a302-11eb-8973-caaabdadb254.png)
 IF all done successfully ,</br>
-You can use those tools from anywhere from your terminal</br></br>
+You can use those tools from anywhere on your terminal</br></br>
 Happy Hunting !!!!!!!!!
 
