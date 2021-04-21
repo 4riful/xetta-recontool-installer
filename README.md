@@ -1,10 +1,10 @@
 # xetta-recontoll-installer
 This python script will help you to install some well known and useful recon tool.
 
-#Dependencies 
+# Dependencies 
 Go lang should be installed
 
-#Tools will be installed  <br /> <br />
+# Tools will be installed  <br /> <br />
 1.Assetfinder --->by Tom nom nom. <br />
 2.wildcheck ---> buy the blackturtle. <br />
 3.Gau ----> by lc. <br />
@@ -14,4 +14,4 @@ Go lang should be installed
 7.qsreplace ---> by Tom nom nom. <br />
 8.httprobe --> by Tom nom nom. <br />
 
-#installation
+# installation
