@@ -1,5 +1,7 @@
 # xetta-recontoll-installer
 This python script will help you to install some well known and useful recon tool.
+After using this Installer You can use those globally anywhere from your terminal where you want !!
+
 
 # Dependencies 
 Go lang should be installed
@@ -13,5 +15,6 @@ Go lang should be installed
 6.hakrawler ---> by hakluke. <br />
 7.qsreplace ---> by Tom nom nom. <br />
 8.httprobe --> by Tom nom nom. <br />
+
 
 # installation
