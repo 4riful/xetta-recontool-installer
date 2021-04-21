@@ -5,12 +5,13 @@ This python script will help you to install some well known and useful recon too
 Go lang should be installed
 
 #Tools will be installed 
-1.Assetfinder --->by Tom nom nom.
-2.Gau ----> by lc.
-3.DirDar ---->by M4DM0e.
-4.Dalfox --->by hahwul.
-5.hakrawler ---> by hakluke.
-6.qsreplace ---> by Tom nom nom.
-7.httprobe --> by Tom nom nom.
+1.Assetfinder --->by Tom nom nom. <br />
+2.wildcheck ---> buy the blackturtle. <br />
+3.Gau ----> by lc. <br />
+4.DirDar ---->by M4DM0e. <br /> 
+5.Dalfox --->by hahwul. <br />
+6.hakrawler ---> by hakluke. <br />
+7.qsreplace ---> by Tom nom nom. <br />
+8.httprobe --> by Tom nom nom. <br />
 
 #installation
