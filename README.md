@@ -1,6 +1,6 @@
-# This python script will help you to install some well known and useful recon tool.
-# After using this Installer You can use those globally anywhere from your terminal where you want !!
-![poster](https://user-images.githubusercontent.com/45453772/115599035-e907e880-a2fc-11eb-969f-f31ed837de4c.png)
+# This python script will help you to install some well known and useful recon tools.
+# After using this Installer You can use those tools globally anywhere from your terminal where you want !!
+![poster1](https://user-images.githubusercontent.com/45453772/115601152-400ebd00-a2ff-11eb-9529-208014d01473.png)
 
 # Dependencies 
 Go lang should be installed
